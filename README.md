@@ -1,6 +1,6 @@
 - 👋🏾 Hi, I’m @Minka-27
 - 👀 I’m interested in art and music, and full-stack web development
-- 🌱 I’m currently learning the Full-Stack Development with Code First Girls
+- 🌱 I’m currently learning Full-Stack Development with Code First Girls
 - 💞️ If you're intrested in my art or projects visit my Carrd (minka-ansa.carrd.co)
 
 <!---
